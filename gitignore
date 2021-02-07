@@ -1,0 +1,8 @@
+.DS_Store
+.project
+.pydevproject
+._*
+.settings
+.buildpath
+.AppleDouble/
+
